@@ -62,13 +62,6 @@
 
 ---
 
-> ⭐ _Feel free to check out my repositories and leave a star if you like something!_
-
----
-
-### 💡 Quote
-> _"Eat. Code. Sleep. Repeat."_
-
 ---
 
 <!-- You can customize further by adding badges, trophies, snake contribution graph, etc. -->
