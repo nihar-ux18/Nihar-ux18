@@ -56,7 +56,7 @@
 ---
 
 ### 🤝 Connect With Me
-- 📫 Email:  
+- 📫 Email:  niharpatil.codes@gmail.com
 - 💬 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nihar-patil-658267370/)
 - 🧠 LeetCode/CodeChef: [Leetcode](https://leetcode.com/u/nihar_018/)
 
