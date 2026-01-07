@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 **Languages:** C++, Java, JavaScript, Python
 
-**Web Technologies:** HTML, CSS, React (Learning), Node.js (Upcoming)
+**Web Technologies:** HTML, CSS, React (Learning), Node.js
 
 **Tools & Platforms:** Git, GitHub, Mac Terminal, VS Code, Cursor AI
 
