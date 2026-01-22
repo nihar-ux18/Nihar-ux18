@@ -8,19 +8,24 @@
 > Goal: Build impactful projects and contribute to open-source
 ```
 
-
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1534665482403-a909d0d97c67?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fHByb2dyYW1taW5nfGVufDB8fDB8fHww" alt="Student Coding" width="400px" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.25);" />
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** C++, Java, JavaScript, Python
-
-**Web Technologies:** HTML, CSS, React (Learning), Node.js
-
-**Tools & Platforms:** Git, GitHub, Mac Terminal, VS Code, Cursor AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,py,netlify,vercel,nodejs,express,react,vite,redux,mongodb,mysql,git,github,postman,eclipse," />
+</p>
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="90%" />
+</div>
+
+---
 ### 📌 Featured Projects
 - 🎯 [**Personal Web Portfolio**](https://nihar-dev.netlify.app/) – A sleek and responsive personal portfolio website built to showcase my skills, projects, and online presence. The portfolio includes sections like About Me, Skills, Projects, and Contact with smooth navigation and modern UI elements. Deployed using Netlify/GitHub Pages, it’s optimized for performance and mobile responsiveness, ensuring a professional online identity.
 
@@ -56,9 +61,18 @@
 ---
 
 ### 🤝 Connect With Me
-- 📫 Email:  niharpatil.codes@gmail.com
-- 💬 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nihar-patil-658267370/)
-- 🧠 LeetCode/CodeChef: [Leetcode](https://leetcode.com/u/nihar_018/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/niharpatil018/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nihar_018">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:niharpatil.codes@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 
 ---
 
