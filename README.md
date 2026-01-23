@@ -56,10 +56,8 @@
 
 <p>
 	
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihar-ux18&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihar-ux18&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nihar-ux18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dipak0000812&theme=dark&hide_border=false" alt="Streak Stats" height="180"/>
 </p>
 
 <p align="center">
