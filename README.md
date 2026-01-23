@@ -53,9 +53,14 @@
 ---
 
 ### 📈 GitHub Stats
+
+<p>
+	
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihar-ux18&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihar-ux18&layout=compact)
+
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipak0000812&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" height="150" />
