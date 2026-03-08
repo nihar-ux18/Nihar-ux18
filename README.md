@@ -55,9 +55,9 @@
 ### 📈 GitHub Stats
 
 <p>
-	
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nihar-ux18&theme=dark&hide_border=false" alt="Streak Stats" height="180"/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihar-ux18&" alt="nihar-ux18" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipak0000812&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" height="150" />
