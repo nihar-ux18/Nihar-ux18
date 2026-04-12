@@ -37,6 +37,7 @@ Study_Ai is the backend system for an AI-powered study platform designed to supp
 PRISM-AI is the frontend development part of an AI-powered merge request intelligence platform built to help developers analyze code changes before deployment. The interface is designed to present risk insights such as blast radius, impact analysis, and merge request evaluation in a clear and interactive way. This project highlights frontend design, UI structuring, and user-focused presentation of AI-generated insights in a modern web application environment.
 
 🔗 https://github.com/dipak0000812/PRISM-AI
+
 ---
 
 ### 📈 GitHub Stats
