@@ -26,30 +26,17 @@
 </div>
 
 ---
-### 📌 Featured Projects
-- 🎯 [**Personal Web Portfolio**](https://nihar-dev.netlify.app/) – A sleek and responsive personal portfolio website built to showcase my skills, projects, and online presence. The portfolio includes sections like About Me, Skills, Projects, and Contact with smooth navigation and modern UI elements. Deployed using Netlify/GitHub Pages, it’s optimized for performance and mobile responsiveness, ensuring a professional online identity.
+ ## Featured Projects
 
-    Tech Used: HTML, CSS, JavaScript, Netlify
-  
-    Features:
-	•	Responsive design for all screen sizes
-	•	Project showcase with live links
-	•	Modern UI with smooth scroll and animations
-	•	Easy navigation with clean layout
-	•	Hosted with custom domain/link.
-  
-  
-- 📊 [**UniBox**](https://unibox-store.netlify.app) – A fully responsive e-commerce web application where users can browse products, add items to the cart, and proceed to checkout. The website features product filtering, search functionality, and a dynamic cart system. Designed with user-friendly UI and smooth functionality to simulate a real-world shopping experience.
+### Study_Ai
+Study_Ai is the backend system for an AI-powered study platform designed to support scalable learning applications. This project focuses on server-side development, including API creation, route handling, middleware integration, database models, and controller logic. It is structured to manage authentication, data flow, and backend operations efficiently, making it a strong demonstration of backend architecture and real-world API development practices.
 
-    Tech Used: HTML, CSS, JavaScript(trying to add payment method to it as mentioned below).
-  
-    Features:
-	•	Product listing with image and price
-	•	Add to Cart & Remove from Cart functionality
-	•	Cart item quantity update
-	•	Responsive UI with grid layout
-	•	Optional: Authentication & Payment Integration (Stripe/Razorpay/Fake API)
-	•	Smooth animations and interactive buttons
+🔗 https://github.com/nihar-ux18/Study_Ai
+
+### PRISM-AI
+PRISM-AI is the frontend development part of an AI-powered merge request intelligence platform built to help developers analyze code changes before deployment. The interface is designed to present risk insights such as blast radius, impact analysis, and merge request evaluation in a clear and interactive way. This project highlights frontend design, UI structuring, and user-focused presentation of AI-generated insights in a modern web application environment.
+
+🔗 https://github.com/dipak0000812/PRISM-AI
 ---
 
 ### 📈 GitHub Stats
