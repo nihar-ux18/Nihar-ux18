@@ -48,7 +48,7 @@ PRISM-AI is the frontend development part of an AI-powered merge request intelli
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipak0000812&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihar-ux18&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" height="150" />
 </p>
 
 
