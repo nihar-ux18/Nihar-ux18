@@ -39,6 +39,7 @@ PRISM-AI is the frontend development part of an AI-powered merge request intelli
 🔗 https://github.com/dipak0000812/PRISM-AI
 
 ---
+
 ### GitHub Stats
 <p align=""center>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihar-ux18&show_icons=true&locale=en&layout=compact" alt="nihar-ux18" /></p>
@@ -47,6 +48,7 @@ PRISM-AI is the frontend development part of an AI-powered merge request intelli
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihar-ux18&" alt="nihar-ux18" /></p>
 </p>
+
 ---
 
 
