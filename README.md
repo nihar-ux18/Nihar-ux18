@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Nihar%20Ganesh%20Patil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Nihar%20Ganesh%20Patil&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -20,11 +20,11 @@
 <div align="center">
 
 ```yaml
-name:       Nihar Ganesh Patil
-role:       Full Stack Developer & Open Source Contributor
-education:  B.Tech — AI & ML @ R.C. Patel Institute of Technology (2028)
-location:   Shirpur, Maharashtra, India
-status:
+Name: Nihar Ganesh Patil
+Role: Full Stack Developer & Open Source Contributor
+Education: B.Tech — AI & ML @ R.C. Patel Institute of Technology (2028)
+Location: Shirpur, Maharashtra, India
+Status:
   - Undergraduate Student (4th Semester | CGPA: 7.00)
   - Active Open Source Contributor
   - Seeking Software Engineering Internships
@@ -40,22 +40,22 @@ status:
 <div align="center">
 
 ```yaml
-learning:
+Learning:
   - Artificial Intelligence & Machine Learning (B.Tech curriculum)
   - Advanced Data Structures & Algorithms
   - System Design fundamentals
 
-building:
+Building:
   - Production-grade MERN Stack applications
   - Scalable REST API architectures
   - Collaborative developer tooling
 
-exploring:
+Exploring:
   - Open Source ecosystems
   - Cloud deployment strategies
   - Developer experience improvements
 
-open_to:
+Open_to:
   - Software Engineering Internships
   - Freelance Full Stack Projects
   - Open Source Collaboration
@@ -330,7 +330,6 @@ Relevant to the Whitenoise project stack — contributed through careful study o
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihar-ux18/nihar-ux18/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihar-ux18/nihar-ux18/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nihar-ux18/nihar-ux18/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
