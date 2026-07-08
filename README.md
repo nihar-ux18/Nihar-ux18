@@ -301,21 +301,7 @@ Relevant to the Whitenoise project stack — contributed through careful study o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nihar-ux18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=e2e8f0&ring_color=6366f1" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihar-ux18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0&langs_count=8" height="180" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=nihar-ux18&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" width="60%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nihar-ux18&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
 
 </div>
 
