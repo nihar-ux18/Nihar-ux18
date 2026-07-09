@@ -11,8 +11,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nihar_018/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharpatil.codes@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nihar-ux18&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
