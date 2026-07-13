@@ -320,7 +320,7 @@ Relevant to the Whitenoise project stack — contributed through careful study o
 
 ---
 
-## 💻 Coding Profiles
+## 🔗 Connect With Me
 
 <div align="center">
 
