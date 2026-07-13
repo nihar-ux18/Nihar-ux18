@@ -326,28 +326,18 @@ Relevant to the Whitenoise project stack — contributed through careful study o
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-nihar__018-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nihar_018/)
 [![GitHub](https://img.shields.io/badge/GitHub-nihar--ux18-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihar-ux18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niharpatil018-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niharpatil018/)
+[![Email](https://img.shields.io/badge/Email-niharpatil.codes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharpatil.codes@gmail.com)
 
 </div>
 
 ---
 
-## 🤝 Connect
+
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| **GitHub** | [github.com/nihar-ux18](https://github.com/nihar-ux18) |
-| **LinkedIn** | [linkedin.com/in/niharpatil018](https://www.linkedin.com/in/niharpatil018/) |
-| **Email** | [niharpatil.codes@gmail.com](mailto:niharpatil.codes@gmail.com) |
-
-</div>
-
----
-
-<div align="center">
-
-*"Good software is built incrementally — one contribution, one review, one merged PR at a time."*
+*"Ship code like you make chai — strong, consistent, and never rushed.""*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&fontColor=ffffff" width="100%" />
 
