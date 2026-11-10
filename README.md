@@ -305,8 +305,12 @@ Relevant to the Whitenoise project stack — contributed through careful study o
 
 </div>
 
-<div align="center>
-  [![My GitFut card](https://gitfut.com/nihar-ux18.png)](https://gitfut.com/nihar-ux18)  
+<div>
+  <p align="center">
+    <a href="https://gitfut.com/nihar-ux18">
+      <img src="https://gitfut.com/nihar-ux18.png" alt="My GitFut Player Card" />
+    </a>
+  </p>
 </div>
 
 ---
