@@ -305,6 +305,10 @@ Relevant to the Whitenoise project stack — contributed through careful study o
 
 </div>
 
+<div align="center>
+  [![My GitFut card](https://gitfut.com/nihar-ux18.png)](https://gitfut.com/nihar-ux18)  
+</div>
+
 ---
 
 ## 🔗 Connect With Me
