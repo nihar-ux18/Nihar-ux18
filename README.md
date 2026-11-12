@@ -285,32 +285,18 @@ Relevant to the Whitenoise project stack — contributed through careful study o
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nihar-ux18&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" width="60%" />
-
+  <img src="https://streak-stats.demolab.com?user=nihar-ux18&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" width="60%" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihar-ux18&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&hide_border=true" width="100%" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihar-ux18&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihar-ux18/nihar-ux18/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihar-ux18/nihar-ux18/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<div>
-  <p align="center">
-    <a href="https://gitfut.com/nihar-ux18">
-      <img src="https://gitfut.com/nihar-ux18.png" width="250" alt="My GitFut Player Card" />
-    </a>
-  </p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihar-ux18/nihar-ux18/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihar-ux18/nihar-ux18/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
